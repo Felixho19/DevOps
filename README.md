@@ -1,1 +1,1 @@
-# GitOps
+# DevOps
