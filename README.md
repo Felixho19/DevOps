@@ -19,7 +19,7 @@ Then the following service can be accessed:
 | Component | URL | Internal URL for configuration
 |-|-|-|
 | Jenkins | http://localhost:8081 | http://nginx-proxy:8081 |
-| Jira | http://localhost:8081 | http://nginx-proxy:8080|
+| Jira | http://localhost:8080 | http://nginx-proxy:8080|
 | Sonarqube | http://localhost:9000 | http://nginx-proxy:9000 |
 
 # JIRA
